@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265993923456",
+    "project_id": "knochat-deb49",
+    "storage_bucket": "knochat-deb49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265993923456:android:d6c002b71b5ae4b7cb6f65",
+        "android_client_info": {
+          "package_name": "com.example.knochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIx4PFJJDJgE0fJAHgUstx4uf1_vOwoDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
